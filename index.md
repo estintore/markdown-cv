@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Davide Dall'Ara CV
 ---
-# Isaac Newton
+# Davide Dall'Ara
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="davide.dallara@gmail.com">davide.dallara@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://github.com/estintore">Git Hub</a>
 </div>
 
 
@@ -27,7 +28,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
+`2006`
 __The King's School, Grantham.__
 
 `June 1661 - now`
@@ -73,19 +74,17 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2006-Now`
+__Lovato electric S.p.A.__, Gorle (BG)
 
 - Warden
 - Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Gennaio 2024 -->
 
 
